@@ -1,0 +1,11 @@
+.App{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem
+}
+.container{
+    padding: 1px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
